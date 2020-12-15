@@ -1,4 +1,8 @@
 # JavaProject
+Description:
+It is a 2D game written in Java where the player can control the movement of a rabbit with the mouse. As the rabbit moves to the right persistently, it will encounter several obstacles. The player has to make the rabbit jump to avoid obstacles and remain in the game.
+
+
 To run the project first we will have to download eclipse.
 
 Then clone or download this repository. Downloaded reposity sould be saved in the root directory of eclipse.
